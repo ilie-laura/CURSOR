@@ -1,0 +1,1594 @@
+How bad is the job market right now?
+In 2026 alone, there've been over
+120,000 people who've been laid off.
+That's about a thousand people a day.
+This is Keki Mwaba,
+career and recruitment expert.
+And we discussed the state of the tech
+job market and what you can do about it.
+I think almost CVs are too good
+these days.
+How do I not seem fake?
+Did I just automate myself out of a job?
+Was this my fault?
+What did I do?
+If I was an engineer
+who wanted to work at anthropic, OpenAI,
+or similar sort of companies,
+this was the step I would take.
+Number one.
+I wanted to talk about the job market.
+And from your perspective,
+how bad is the job market right now?
+Job markets not great.
+Quite frankly, I think it just depends
+on different industries, different roles.
+But if you sort of look at it in general,
+hiring in 2026
+isn't what it used to be compared
+to, like the pandemic boom or even 2023.
+So there's significantly less roles
+available, particularly within tech,
+than than other sectors.
+So, for example, if you're like a care
+worker working in nursing or,
+you know, old aged care.
+Yes, there'll be an abundance of jobs.
+But for people within tech,
+there's significantly less opportunities
+and it's a more competitive market,
+I think specifically
+for software engineers or also
+for some of the other roles
+like product or architects, designers.
+Yeah, across different roles.
+I think engineering has changed in terms
+of what kind of engineer.
+So for example, you know, I've worked
+at Reddit and Uber and Disney Plus,
+and when I was sourcing, it was heavy
+on like backend, Android, iOS engineer.
+But of course with AI we're looking for
+more AI specific engineers.
+So the type of engineer has changed
+as well as like within the space of design
+for people who are like product
+designers, UX, UI designers, they also are
+significantly less roles available
+than it was even for product roles.
+So I think we are seeing quite a shift
+within the market.
+And is this specifically
+from your perspective due to AI?
+Because that's what I've seen
+in the market a lot to do with AI.
+So, for example, in 2026 alone,
+they've been over 120,000 people
+who've been laid off.
+That's about 1000 people a day.
+And it has been within
+sort of largely larger tech companies.
+So, for example, OpenAI is still hiring.
+They plan on doubling their workforce
+before the end of the year.
+So small, medium sized AI based companies,
+they're still growing.
+But if we look across Logitech,
+we've seen significant layoffs.
+However, there's still almost 60,000
+software engineer vacancies
+available at the moment,
+so it almost kind of doesn't make sense
+when you look at it in the surface.
+How can so many people be laid off?
+But a lot of hiring managers and companies
+are still saying that they're struggling
+to find the right talent.
+What's your hunch?
+Because those two don't really add up.
+Yeah, right.
+The math is not math. Yeah.
+So I think my hunch is a lot of companies
+do layoffs initially to do cost saving.
+So, you know, it seems like a cost
+saving initiative at first.
+And then sometimes
+they've even seen those same companies
+whose laid off people rehire them back.
+And this is after they've given them
+a package and everything.
+And then they realize, oh,
+we thought AI could do everything,
+but actually we still need people.
+We still need engineers, designers,
+product people to do the work.
+So they've been rehired 
+in a few companies as well.
+So it's sort of
+like a little bit of a wave.
+It's like layoffs and hiring,
+layoffs and hiring.
+So and it's happening
+more than accelerated rate,
+I think in the last year or two than ever
+before.
+A few years ago,
+I spoke to also recruited on the show
+and then mentioned kind of this
+these not nice engagements
+specifically with software engineers,
+because a lot of recruitment
+recruiters were actually actively
+engaging with software engineers,
+and they might not get the nicest reply,
+kind of depending on that interaction.
+Also, because software engineers
+were just very much in demand
+from a market perspective.
+And now I think things have kind of
+shifted where you might apply for a job
+and you might not get a reply back.
+And I see posts online with people
+that have applied
+to hundreds of jobs without a single reply
+or AI automated reply.
+Like, it's kind of disheartening.
+If you're looking for a job
+and you can't even get a foot in the door.
+LinkedIn used to be the platform
+where kind of people found each other.
+Has that changed?
+So LinkedIn is actually
+still the platform, still the number one
+hiring platform even within tech.
+So a lot of data shows that still it's
+the biggest source of talent,
+the easiest way to find people,
+I think the mistake people make
+is treating LinkedIn
+like a digital CV instead of a platform.
+So I think back in the day,
+you know, a lot of engineers used to get
+so many messages from recruiters,
+and I was one of those recruiters
+like spamming people.
+I think I used a message
+like 50 to 100 engineers
+per day to try and fill our roles.
+And maybe my response rate was around
+like 20%.
+And out of those 20%,
+maybe only 10% would be interested
+in want to have a conversation.
+So I think that's shifted a lot
+now, in the sense that engineers are
+getting less reach outs from recruiters
+and the ones who do get a lot of messages.
+Job opportunities are
+the ones usually are treating LinkedIn
+like a portfolio, and by that showcasing
+their work, their results.
+They have a good network.
+They're talking about the projects
+that they're working
+on. So from that perspective,
+I think networking is still going
+to be very important.
+And also like be nice and reply
+to the recruiters message, you know,
+if it's a nice message, if it's tailored,
+if it's not generic, like dear
+First Name, you know, if they actually did
+put in a little bit of an effort
+because you never know,
+you might be laid off one day,
+which sounds a bit scary, and I
+don't want to shock people or anything,
+but one of the things I noticed
+when layoffs happened is a lot of people
+start to go through the inbox to see, oh,
+who messaged me here, messaged me there,
+and at least if he kept the door open
+and had some kind of conversation.
+It's so much easier to revisit that
+if worst case scenario happens
+and you end up getting laid off. Yeah.
+LinkedIn as a digital CV,
+I feel like I do that.
+I haven't really posted
+on LinkedIn as much.
+So then even to shift
+and look at it from a platform perspective
+rather than a digital TV for the people
+listening or digital CV for the people
+listening, what can they do actively
+to make it not just a digital CV?
+Yeah.
+So I think the temptations are list
+to just list where you've worked,
+what you've done, maybe a couple
+skills, add your colleagues
+on their classmates and leave it at that.
+And that is a massive opportunity
+you are wasting because visibility is key.
+And I know it sounds a little bit cringe
+to feel like you have to create visibility
+for yourself,
+but you have to think of your own personal
+branding and personal branding.
+You have to treat yourself like a product.
+Of course you're a human being
+and you live and breathe and think,
+but if you treat yourself
+like a product and be like,
+how can I market and sell this product
+and my skills,
+then you're not going to see it
+as a digital CV.
+So, for example,
+one of the posts that do the best on
+LinkedIn, particularly within engineering
+or tech in general, is people
+who talk about their learnings
+and their failures as well.
+So, for example, what our team broke
+when we built this product
+or how we saved costs when we scaled
+or something like that, or we lost money.
+Here are our mistakes.
+People
+tend to feel like that's more genuine
+and also it can add value from there.
+So it takes a little bit of, you know,
+braveness to put your work out there.
+So maybe you've built
+a really cool product fund of or a chat
+bot or something like that, talk about it
+and let people see it as well.
+And that will help you not see LinkedIn
+just as a CV,
+but as a place to showcase your work
+and also little personality who you are.
+You know you're not going to be exactly
+the same as another person.
+So seeing LinkedIn as that place to
+to show who you are
+or also attract the right opportunities
+and people to you.
+Yeah, the hard part for me is if you're
+really comfortable in where you are
+and you enjoy your work,
+there's no real kind of incentive,
+at least for the short term,
+for you to actively start doing that.
+And it is a time investment.
+So then when shit hits the fan
+and all of a sudden
+you do need that, you might be too late
+if you haven't actually put in the effort.
+How do people or how have you kind
+of collaborated with people
+to make this happen, to make that a habit
+or make it easier for them to do so?
+Because for me, it's quite hard actually
+to actively post and continuously do so
+because time is limited.
+Correct?
+You have a full time job,
+you run this podcast,
+your life is very full, of course.
+So maybe like, you know, LinkedIn can
+sort of slip into the back of your mind.
+But I think one of the ways to do
+that is also to time your engagement
+with the platform.
+So if you're like, okay, I'm
+going to spend 5 to 10 minutes per day.
+Otherwise you end up doing
+scrolling and scrolling and scrolling.
+But if you view it as
+how can I contribute to this platform
+as opposed to just consume,
+that can be great.
+And one of the most underrated ways
+is actually through
+not only creating content by commenting.
+Right?
+So let's say, for example,
+one of my clients that I was coaching,
+I was his career coach,
+and he wanted to transition
+from a software engineer role, senior
+software engineer to a manager role.
+And one of the strategies
+we did was actually I was like,
+okay, let's draw up a list of companies,
+all the managers there and start engaging
+with their LinkedIn posts.
+So he started like commenting on all their
+like posts
+with really insightful comments,
+not just like good job team.
+I like this, you know,
+interesting insights, nothing generic.
+It was really thoughtful.
+So he'd be like, oh, have you considered
+this when building that?
+Or what about how do you solve for that
+when building that or scaling that?
+And from that sense,
+by the time he actually did message
+those engineering managers
+at the companies,
+he was interested in there,
+really quite familiar with his name.
+They're like,
+hey, we've seen this name before.
+We even gauged with him before.
+And there was so much more open,
+and he ended up making that leap
+from senior to a manager
+just through engaging with comments
+but hardly ever posting himself.
+And in the beginning
+it was quite intimidating
+because he felt like,
+oh, what if I'll be judged?
+What should I say?
+I don't know, but then in the end,
+he saw it as just having conversations
+with people and learning
+and sharing information, and from that
+he was able to move his career forward
+without ever sending a single job
+application.
+Comment might be then a misnomer.
+Like if you say it's driving conversation,
+then that's very different.
+You're interacting
+or you're sharing your opinions
+or even asking a question specifically.
+That's quite interesting to me.
+What I've seen, and I'm kind of new
+to Instagram as a platform
+because we now post podcast clips on there
+and I'm in an AI bubble.
+All the people that already have quite
+a big following
+would say if my following disappears,
+here's what I would do.
+10 to 15 posts
+with LinkedIn using your favorite AI tool
+to just bombard the platform with posts
+and posts and posts and every day.
+And I'm like, wow, that would just
+you would go hard on the quantity side.
+I don't know about the quality side,
+but for me it would be kind of robotic.
+That's also what I've seen on LinkedIn.
+Some people are calling out
+other people's comments specifically
+if they're quite robotic or their posts
+specifically in the tonality.
+What's your take on that?
+Is AI and kind of how people are treating
+this as a platform, also ruining it?
+Definitely.
+Have you ever seen
+AI generated comments on LinkedIn, like,
+can you have seen other people
+call them out?
+And I'm like, yeah, it does look weird,
+but only after they've been called out.
+Yes. Yeah, and it is a bit brutal.
+I've seen people screenshot
+name everything of someone who does
+a lot of AI comments and calling them out.
+So I think LinkedIn really
+is cutting down on that.
+So even the LinkedIn
+algorithms have changed before.
+What used to be the best way
+to get visibility was the number of likes.
+But maybe you've noticed
+one of the things on LinkedIn posts
+that have changed in
+the last couple of months
+have been like the number of saves,
+how many people have saved your posts,
+the number of sends,
+as well as even a read time.
+So that boosts visibility
+because it was being spammed with bots.
+And I think the developers of AI,
+of LinkedIn sort of noticed that
+and therefore they changed it.
+So it's not always about comment
+engagement like engagement,
+but other sort of forms of engagement
+that develop the authenticity of a post.
+But if I'm being completely honest,
+I think I have a bit of a love hate
+relationship with with LinkedIn.
+On the one side,
+many of my job opportunities
+that I've gotten a really cool
+companies have been through the platform.
+And on the other side, I sometimes
+see content that doesn't connect with me
+or just feels like,
+you know, a little bit spammy or two
+AI developed, but I think they still
+so much opportunity on there.
+So I'm actually curious.
+Patrick, how do you feel about LinkedIn
+as a platform in general, and has that
+maybe changed over the years for you?
+Yeah.
+So I growing up I never used social media.
+The only reason I started using social
+media was frankly because of the podcast.
+And then I took LinkedIn and posting
+at least once a week
+quite seriously, quite consistently.
+But then I just lost energy
+because I did it, because I thought
+I needed to do it, rather
+than actually finding joy in that.
+So now I only post quite infrequently.
+To be honest, when something happens,
+something that I want to share,
+that's the platform for me to share it on
+and I don't post on any other platform.
+I do read and I do consume
+because I think it's interesting
+to see what people are doing or kind of.
+I'm also my AI bubble, so from a news
+perspective, it's interesting to me,
+but the only shift that I've seen
+is that I now more actively do
+see people engaging with comments,
+or do see people actually trying
+to put themselves out there.
+From a personal branding perspective.
+I did not recognize that
+as much years ago.
+So I think this narrative of,
+okay, the market might not be as good
+and people are working more
+on their personal brand.
+I see that on LinkedIn more
+so than I used to see before,
+which I think is a good thing in the end.
+I don't know if layout, if specifically
+your company is reorganizing,
+if you can do much to prevent a layoff
+in your department or something
+impacting you, but I think in advance
+already taking some precautions.
+It can't hurt.
+But it again, it needs time investment.
+From my perspective.
+What else do you think people can do from
+a layoff perspective in their own circle?
+Yeah. So I think never feel safe.
+And not to say that you have to worry or
+stay up at night worrying, you'll be laid
+off, but nothing is really stable,
+I guess, in this life.
+And by being ready,
+I think that's really important.
+So for example,
+always having a
+great CV, I think is good tracking
+the work that you're doing.
+And if you have a feeling
+a layoff might be coming,
+there's so many things
+you can do to prepare for that.
+So one of the things I always encourage
+people to do is write down
+everything you've done.
+If they're documents you can say
+from the company, nothing confidential,
+just maybe your own work
+build up your own portfolio.
+That's going to be super important.
+Second, it's
+also good to know your rights.
+So it depends
+which country that you're in.
+So for example, in a lot of European
+countries, it's very hard to lay people
+off immediately versus in the US, US
+you can be here today, gone tomorrow.
+So always know what your contract is.
+If there's no non-compete,
+if there's garden leave
+or anything like that
+so that you can be ready.
+And I highly recommend people
+to contact a labor lawyer in advance,
+because just a one hour consultation
+with a labor lawyer can save you.
+Thousands later,
+in terms of negotiating a great package,
+knowing your rights in advance,
+which is super important.
+And I think thirdly, and this is
+a little bit of a controversial one, but
+maximize all your company benefits
+before you leave the company.
+So for example, if you have insurance
+or dental or health care
+or any sort of benefits that could go away
+once a layoffs announced
+or maybe a frozen out of the system
+can't log back in.
+As that sometimes happens,
+a layoff can be announced
+and you can't log back in.
+So I think that's important
+to also understand what benefits you have
+and use them while you while you can.
+I wonder how much this
+narrative of layoffs and also kind of AI
+being the catalyst for laying people
+off, stresses people out that already
+have a job that kind of layoffs
+are potentially looming,
+or they might be impacted in that
+same way.
+If we're talking about the quantities
+like 120,000 is a lot of people.
+And when it happens,
+at least in my social feed, it's there
+because people are liking it, empathizing
+with the people, sending messages to see
+other people that have been impacted
+then react to it as well.
+My feet is then full of it,
+and I understand I'm in my bubble
+and it might not impact me as much.
+But for the people that are in similar,
+let's say, big tech organizations,
+I wonder what it does from their own
+kind of job security perspective.
+Have you?
+Do you have any insights
+on that specifically?
+Yeah.
+So I think that layoffs
+really creates quite a
+change in morale inside a company.
+So the fact that you will still be there
+and as great as,
+you know, maybe some of our labor
+laws in Europe are that,
+you know, it has to go through the Works
+Council and many other groups.
+You still have to go to work
+a lot of the time.
+So knowing that end
+is near, or rumors that the end is near
+and you still have to be
+there can really, really demotivated
+people and really worry people.
+Will my next job match my last salary?
+What will I be doing?
+The will the job market be flooded?
+So, for example, I know a client of mine
+who actually helped a
+AI adoption at a company
+and she was scaling it for two years.
+It's going really, really well,
+almost too well that they were like,
+we actually don't need you anymore.
+And she was like,
+did I just automate myself out of a job?
+Like, was this my fault?
+What did what did I do?
+And now she realized she has
+a massive opportunity to do consultancy.
+So she's shifted and tidy from looking at
+I need a stable, full time,
+permanent position to action,
+actually consult at different companies.
+So she even has a higher income.
+So her layoff was actually a good thing,
+doing consultancy
+work for these different companies
+that are looking at AI adoption
+within their company.
+So even if you are laid off,
+the always consider different ways of
+it might not be a full time job for you
+next time.
+And I think the shift was seeing
+is also people who will maybe hired a big
+tech company.
+So let's say they were at meta, Google,
+Amazon, Atlassian.
+Their next job is actually less likely
+to be another big tech company.
+So it can be a smaller company.
+It can be maybe a company less well known.
+It's making really cool tools.
+Adoption chat bots are the kind of things.
+So I think important to stay open minded.
+But I think our ego is a little bit
+sometimes attached to the sort of company
+that we work at, like,
+oh, I've only worked at these companies,
+and what if my next company's
+smaller and less well known,
+but you might find
+it might be even more enjoyable.
+Maybe you have more autonomy, work
+on projects and products you enjoy more.
+So I think a layoff definitely
+isn't the end of the world, and it's
+always important why you're still employed
+to reflect on
+what do I enjoy about my current job?
+What do I love working on?
+What would I like to work on next?
+As layoffs often shake
+people up to be like,
+oh, okay, I need to reconsider my life.
+But I think there's so much reflection
+you can do even where you are today.
+I've also seen this narrative
+where this is from a hiring perspective.
+People are saying the resumes that I get,
+let's say for an individual contributor
+software engineering position,
+all resumes going to look tailor custom
+made to the profile that we put out there
+and all the job experience,
+at least from a resume perspective.
+They look like they completely fit,
+which means that already just looking at
+resumes, if previously used to see a few,
+that would really stand out.
+Now all of them stand out
+and they come in in volumes.
+It's really hard to find the right people,
+both from a hiring perspective as well
+as if you are the person sending
+your resume to distinguish yourself.
+And I think personal branding
+and putting yourself out there
+on a platform, engaging with the people
+that are hiring like that is a great step.
+Keeping up to date with your resume
+and the work that you've done.
+It's also something that you've mentioned.
+Is there something missing that people
+can still do to put themselves out there?
+Yeah.
+So I think almost CVS are too good
+these days.
+Like they're too tailored to the job to.
+But then when you actually start
+interviewing
+and speaking to someone being like,
+okay, you said you built this,
+tell me about it.
+And then like, oh, you know,
+they can't really speak much on it.
+So I think from that perspective,
+it still is good to have a great CV tailor
+to the role, but an interview
+will allow you to sort of assess
+the candidate a lot better.
+And the thing is, a lot of candidates
+start to sort of
+look the same, like have
+similar experiences, similar skills.
+So to stand out even more, that is where
+good old fashioned
+relationships come into play.
+So if you have someone who can refer you
+for the role, if you already have
+a network at the company,
+and this is something I encourage
+early graduates to really focus
+because they are significantly less entry
+level tech positions than previous years
+than even 2024 and before.
+So for example, as a student, it's
+kind of the last thing
+you're thinking about, right?
+You're
+just trying to get through your exams,
+pass your thesis, 
+and maybe you'll apply for a couple jobs.
+No, you actually need to focus on already
+building a job search strategy
+in your studies.
+So if you already start going to community
+events, networking events,
+being really integrated
+into the tech community in your city,
+or if your city doesn't have a big tech
+community, online communities building
+relationships online and in person
+so that by the time you graduate,
+you can maybe find a really cool
+traineeship, internship,
+or some kind of junior position.
+So I encourage people to do that.
+But that's not a skill
+you really get taught in university.
+I'm like, I don't know about you,
+but my school didn't really teach me.
+It was like, you've graduated all the best
+and sort of push you out of the nest.
+And you're like, okay, fly.
+So it's actually fly, little one. Yeah,
+but I think they should be great
+at emphasis on those kind of,
+you could say softer skills in terms of
+how to speak to people, how to interview,
+how to build a career in school
+so that by the time you graduate,
+particularly with a more competitive
+market, that's going to be there.
+So I remember when I was doing my master's
+here in the Netherlands, I think we had
+like a one day
+workshop on the Dutch job market,
+and it was so fast
+and so much information.
+By the time I left, I was like,
+I don't know what to do.
+Am I going to find a job in this country?
+So and that's what I love doing
+as both a coach and recruiters,
+really helping people to understand
+how they can position themselves
+so that they can stand out
+to other applicants.
+Because at the end of like
+especially your studies, a lot of CV
+start to look the same.
+But they still things you can do to
+to put yourself ahead.
+I would like your perspective on the roles
+because we started this conversation with
+they are evolving compared to a few years
+ago specifically, and I've also seen this
+narrative, or some people are
+considering even switching careers
+from software engineer to something else,
+specifically because they feel like this
+craft might actually be obsolete.
+And the Frontier Labs, the
+AI companies that are driving this
+and bringing out kind of tools
+to accelerate software engineers.
+Some people have also said, well, software
+engineers or the role will change
+and we don't need 100%.
+We might only need 20%.
+So people are being laid off.
+They're still open positions,
+but they're very competitive.
+And I wonder from maybe a role
+or a job perspective,
+how have you seen things changing?
+And do you think software engineers
+still have a place
+in, let's say, a few years or even more?
+Yeah, I think software engineers
+will definitely have a place, but
+I think they need to shift their skills
+and stay updated with the market.
+So, for example, you know,
+when I used to search for software
+engineers as a recruiter,
+it'd be very basic back end Java, Python,
+you know, the skill set
+has entirely changed today in terms of
+what's going to be most needed.
+And for example, funny story,
+one of my clients has coaching.
+He's been a backend software engineer
+for many years.
+He's at the staff level.
+And he told me he was like, you know what?
+I think I've
+always wanted to be a plumber, actually.
+Oh, and I was like, okay, tell me more.
+He is like,
+I'm seeing a shift in the market.
+I've always liked working with my hands.
+He was like,
+I use AI to code and do all of my tasks
+90% of the time,
+and I'm honestly just bored.
+And I was like, okay, so why plumbing?
+He's like, I've always enjoyed it.
+He was like, my dad was a plumber
+and he always used to look down on his dad
+a little bit for having such a manual job.
+At the time.
+He was like, oh, I'm going to work
+in a company and be corporate.
+That'll be like the level up.
+And he was like,
+I actually feel a bit bad that I sort of,
+you know, as a kid
+looked down on my dad being a plumber.
+But I also learned those skills.
+So there's actually been a massive,
+well, not a massive shift,
+but a smaller shift
+in terms of people looking at jobs
+that are likely not going to change,
+at least in the next few years.
+So plumbing,
+being a mechanic, you know, electrician,
+those sort of skills that are easy
+to not super easy to pivot to,
+but that will still be available
+and around that you can run a successful
+business with.
+So I think that's something
+really interesting to have
+a sort of more manual job
+and also be really happy doing it.
+At the end of the day,
+I think your happiness is
+what's most important,
+and if you can find something that gives
+you the life you want and you're happy
+and you're enjoying it, I say go for it.
+Yeah, absolutely.
+Yeah.
+Do you think a lot of people came
+into this field specifically
+for kind of the job security
+and the quite, quite great salary
+and benefits package that you could get,
+especially with the time investment
+that it needed.
+There was a narrative years ago
+that you could take a boot camp
+or be self-educated and land a really good
+job right now is very competitive.
+I feel like because of layoffs,
+but also because
+of specifically the skills
+and the capabilities changing.
+So the people that really know
+what they're doing that have
+years experience and kind of have a taste
+for how to create software,
+now have tools that accelerate them
+specifically,
+which means that, yeah,
+productivity increases.
+I know there's a lot of studies out there
+where the results show
+it might still be lacking
+or there's cognitive debt.
+But from an experience perspective,
+I do think productivity overall increases.
+That's what companies are betting on.
+Plus these tools also have a cost factor
+and the costs are increasing.
+So they're betting on smaller teams
+potentially more seniority
+and then accelerating in that way
+rather than going the volume route
+and having multiple teams.
+So yeah, it's it's
+a lot more competitive is what I think.
+Yeah, it's
+definitely a lot more competitive.
+And I'm interested in hearing from you,
+Patrick, as a, as a fellow, 
+as a software engineer yourself.
+Have you ever had any concerns
+about your own job security
+when you sort of looked long term
+into your your own career?
+Yes, I,
+I think my job is quite interesting
+because I am in a consultancy right
+now, and I do think right now
+there's a lot of companies
+with a lot of questions.
+And then at least in Europe specifically,
+I think there's more investment
+in hiring people
+and hiring the right person.
+So if you can afford that,
+or if hiring is really hard and you have
+a really good partnership or collaboration
+with consultants, people that you trust,
+they might go
+that route more specifically.
+That's my assumption. That's
+what I've seen.
+But my role is also shifted.
+I couple years ago was in product.
+Then I went back to hands on
+because I had the biggest FOMO
+and I wanted to actually
+have hands on experience.
+And now I'm in a role
+where my responsibility is to accelerate
+more AI adoption best practices,
+but also be kind of
+a frontrunner with certain technologies
+and experiments in organizations.
+I think right now
+is definitely the time to experiment.
+But like you mentioned,
+I do see there is an end of the line
+because of the organization is going
+smoothly, things are being adopted.
+We have really resilient metrics.
+Then the work needing to do for adoption
+that will disappear in that organization.
+Specifically.
+I don't know if I want to do that again
+in multiple organizations.
+Yeah.
+But yeah,
+I find a lot of joy in creating.
+I find a lot of joy
+in these types of interactions.
+I think if I would want to do one thing,
+it would be to have these types
+of conversations and kind of knowledge
+sharing more on a day to day,
+because right now it's a very tiny,
+like 10% of my time goes into this.
+That's how I see my job.
+I don't know if I will be software
+engineer
+for many years down the line,
+but I do still in the roles
+that I've had, I've always identified
+as a software engineer
+like I do take pride in that,
+and that craft is completely changing.
+So it's kind of a hard one.
+Thinking about my own career.
+I do see a lot of possibilities,
+but I don't want to narrow down just yet.
+I won't do everything,
+but my time is limited.
+Yeah, of course.
+And I think that's so cool that you've
+also transitioned, right, in terms of,
+you know, you're like, oh, I want to be
+focused more on this, on that.
+And now consultancy,
+AI adoption, emerging technologies.
+And I think the fact is that sort of
+is really where we're at in terms
+of the job market staying flexible,
+being open to trying different projects
+and seeing if you can still be creative
+and do what you enjoy.
+So you're not only a technical person,
+but you also love people, which you know
+this podcast gives you
+the opportunity to do, which is fantastic.
+And I think, you know, that's why
+I think back to posting on LinkedIn.
+You know, you've got so many stories, so
+much information to share with the world.
+For me, if I was a software engineer,
+even as an engineer, I'd be like,
+I want to learn
+what's going on in Patrick's life.
+What you're working on projects
+non confidential sort of information
+you can share.
+And I think when you see it as information
+sharing, that also gives you,
+weirdly enough, job security
+as it positions you as an expert.
+It positions you as someone who's open
+increased visibility,
+more recruiters
+reaching out to you, more conference
+or speaking opportunities
+or something like that.
+So from that perspective,
+there are still ways
+that you can engage with people,
+but it has to be intentional.
+Yeah, yeah, I'm not really as intentional
+with it specifically like the podcast is.
+I think my biggest portfolio,
+my body of work that I have out there
+and through there, there is opportunity.
+So then LinkedIn
+is more on the back burner
+because I feel like I don't have to do
+that as a flywheel specifically.
+And when I do,
+I like talking more than I like writing.
+I like also listening
+more than I like reading.
+So it just
+it fits better with me as a person.
+Specifically, if I didn't have that,
+I do think I would do more with that,
+because otherwise that whole kind of
+flywheel changes specifically.
+But yeah, working on a portfolio
+right now, I feel like especially
+to get yourself or give yourself an edge,
+I think it's a must.
+Or at least people need to think about it
+more intentionally.
+Like you mentioned now from a job
+description perspective,
+looking at tooling or the roles
+that people are asking,
+is AI already embedded in there?
+And how have job description
+specifically changes?
+Do people have more responsibilities
+as engineers?
+What have you seen?
+Yeah.
+So over the past year 
+there's a 70% increase in job descriptions
+mentioning AI related technologies
+as a skills requirement
+even for non engineering roles.
+So you can be in marketing
+and they're like
+okay, we'd like you to know
+how to automate our projects better
+and track the process of how our clients
+are doing using AI tools.
+So there's a recent study
+that showed that 66%
+of hiring managers at Microsoft
+would not hire someone who had zero
+AI skills, and that's even being reflected
+in job descriptions.
+So I think it's really important
+to, you know, even on your CV, highlight
+the tools, projects
+that you've worked on using AI,
+as well as look at job descriptions
+and see how they've changed.
+So a job description today versus
+two years ago is completely different
+in terms of often the required skills,
+what you expected to work on, etc..
+And I think that that's also a shift
+in the job market that we're seeing
+for people that are thinking
+about kind of their career path.
+For me,
+I think if you ask me, a few years ago,
+engineering
+manager was definitely one of them.
+And I think now less and less.
+And the main reason because of that is if
+AI tooling and the capabilities
+we have now allow everyone
+to build specifically,
+then I do think we need less managers
+and more people that are capable
+and actually executing and delivering.
+So this career path
+where I thought you can move up,
+I think it's going to be limited
+to a smaller scope of people.
+That's my hunch,
+which makes it less attractive
+for me to kind of go all in in there.
+I am a people person.
+I think more and more
+I love talking about people, about
+personal development, personal growth.
+But those opportunities that companies,
+I think will be more limited.
+Is that a trend
+that you have seen as well?
+Yeah, correct.
+So a lot of layoffs have actually affected
+middle management.
+They're looking more for extremely
+in-depth technical individual
+contributors.
+And middle managers are significantly
+becoming less and less and less.
+And I think with being a manager
+as well, it's often less expected
+still to be technical.
+So a lot of engineering manager roles
+that are posted currently still require,
+you know, still a stack in terms
+of your technical expertise
+as opposed to, you know,
+more people management side of things.
+So it's almost the ability to to do both.
+For example, even outside of tech,
+one of my clients, who's a marketing
+senior marketing manager 
+for marketing manager role
+she was interviewing for,
+she still needed analytics experience.
+And she said to me, he says, like,
+I haven't done in-depth analytics since,
+you know, my first entry level roles.
+And now I'm being asked as a manager
+to really analyze
+data poor reports
+presented to the C-suite.
+So even for like non
+super technical roles, technical expertise
+are still being required.
+So I think your skill set has to stay
+sharp regardless of what level you are at.
+And because Parsa become less traditional,
+it started a junior engineer
+mid-level senior manager
+manager was always the end goal.
+The proof
+that I've made it in this world,
+I am a manager and that is also changing.
+And I think it's a good thing.
+It's not to say that you can't only be
+a manager, you shouldn't be a manager,
+but I think there are more possibilities
+and options to be considered too.
+Yeah.
+The interesting thing
+is that indeed, for what you mentioned,
+non-technical roles also requiring
+technical skills more and more out there
+specifically for software engineers.
+I wonder if the responsibilities are
+the ask is actually,
+well, valid is maybe the wrong word,
+but there is a it's a big ask for people
+to be able to stay up to date
+with all the tooling and technology
+that evolves, as well as be capable
+from what they need to do on a day to day
+perspective, and potentially do
+even more above and beyond
+for the companies that they work for.
+I think it's a lot like I don't have any,
+let's say, financial responsibilities,
+I pay rent, I don't own a house,
+I don't have any kids.
+I want to go on vacation.
+So that's like my ambition and I can
+and I go, but I also have
+a lot of time to invest in this job market
+and invest in this career.
+And I wonder how my experience
+would be experience
+being just me, driving my own career path
+with more responsibilities because then
+my time would be even more limited.
+Like, I don't know how people with kids
+or people with definitely other
+responsibilities, more responsibilities
+than I can imagine would do
+and are doing nowadays.
+I hope it's also okay
+for those people to just be like,
+well, I focus on these things
+and this is what I can do,
+and this is what I'm capable of
+and what I can manage.
+But yeah, because of the competitiveness,
+things are shifting quite quickly.
+Yeah, I would agree.
+And they sort of two types of people
+when it comes
+to, let's say people who have families
+and more responsibilities, mortgages,
+all of that.
+Some of them are comfortable, like you
+said, just to mention to be like, hey,
+I focus right
+now is on climbing the ladder
+or working on more challenging projects.
+I'm just comfortable in my role, maybe
+not going to learn as many new skills.
+Stay reasonably updated, but you know
+this is the level uncomfortable.
+And then you get those people
+who still have
+all those additional responsibilities
+family, house, kids, all of that.
+And they also still want to stay updated
+in terms of everything going on.
+And that group is actually
+at a massive risk of burning out.
+And many of them unfortunately due
+to be able to stay visible,
+stay up to date and relevant
+with changing technologies
+and have all those
+additional responsibilities.
+So it really, really is hard.
+So I think taking care of yourself
+both inside and outside of work is very,
+very important.
+Leaning on support systems
+as well as just asking yourself,
+how am I doing, you know, am I doing okay?
+And so planning your time to be like,
+okay, I can only spend
+maybe an hour a week on side projects,
+on learning new things, on other things,
+which is also valid, right?
+Or reducing your work week.
+But I know, for example, as recruiters,
+some of us would be hesitant to hire
+maybe more experienced people
+because with more experience sometimes can
+come more assistance to learn new things
+compared to a recent graduate who's like,
+you know, and to learn everything
+they know, they don't know that much.
+You know, the more senior person in a team
+can have more resistance
+to learning new things or technologies.
+So I think it's definitely good
+to have that balance.
+And that's the best part about having
+a team with diverse experiences, right?
+Because other teammates
+can teach you things to be like, hey,
+I've been playing around with this tool.
+Do you want to take a look at it?
+So it's not always just,
+you know, boring studying stuff at home,
+but it can be informal conversations,
+other people showing you their work.
+You're working on stuff together
+that can actually be fun as well.
+As a last thought, I wanted to do
+somewhat of an exercise with you
+because if I look at specifically
+the job market that I am in,
+the Frontier Labs are, I think, the labs
+where things are accelerating and evolving
+the quickest.
+There are also the companies.
+And it doesn't have to be the frontier
+labs.
+It can also be
+kind of adjacent companies to them
+that bring out a lot of tools that suffer.
+Engineers either
+love to use or hate to use, or companies
+at least want them to use,
+which would be a really interesting,
+I think, environment to learn from,
+to build connections and to work in.
+So let's say
+if someone listening wants to work at name
+the biggest companies,
+it could be OpenAI anthropic.
+Is there a stepped approach
+that they can take specifically
+to put themselves out
+there, get a foot in the door
+and potentially land a job?
+Yeah, for sure.
+So if I was an engineer
+who wanted to work at anthropic, OpenAI
+or similar sort of companies,
+this is the step I would take.
+Number one, ask myself,
+why do I want to work at these companies?
+Is it just the name? Is it the brand?
+Or are there actually products?
+Tools that you find are really,
+really cool that you're working on?
+Second, do deep research into them.
+So really understand how they work,
+how they've built.
+There's a lot of open source
+or publicly available information
+about them that is also there.
+Thirdly, try and connect
+with someone who does work there.
+So for example,
+it might be someone in your network,
+friend of a friend, or, you know, even
+someone who used to work there.
+So if you can sort of
+have some kind of conversation
+that will really help
+you get your foot in the door,
+because those teams
+will still get so many applications
+that relationships, referrals
+are still going to be really, really key.
+And also lastly, look at their tech stack.
+So if there are things that you can learn,
+things that you can improve upon, really,
+really start to understand it.
+And then when you apply show those
+companies this is what you've worked on.
+So I always really liked it
+when someone you know
+would put on their CV or
+on their LinkedIn, like a project section
+that you can click on, look at the stuff
+they've worked on, the impact, etc.
+even if it's just a prototype.
+Not to say that it has to be live
+and have millions of downloads
+or something like that,
+but something that you can actually
+see and click through
+I think is really, really cool.
+So by taking some of those steps,
+I think that gives you a better chance
+of getting into companies
+that you really want.
+The step where you mentioned
+find colleague that now
+works there, or someone in your network
+to actually reach out to them.
+That would kind of
+I would feel withheld because I feel like
+a lot of people would do that.
+And how do I put myself out there
+to send a message without making it seem
+like I want to work at that company?
+Like if I haven't had a bond with them
+or a message interaction before,
+they might get a lot of people
+similar to that.
+How do you make it? Kind of,
+I would say organic, authentic.
+How do I don't seem fake?
+It seems really overwhelming, right?
+Like messaging seven dear engineer,
+I want to work at your company
+and I know you work there,
+but sometimes it can be
+just that simple, right?
+So I think what's important to do
+is also take a data approach
+to reaching out to people.
+So for example, when I wanted to work
+at some of the companies, I did.
+So for example, when I joined Reddit,
+I was like, okay, who's working there?
+Let me make a list of people
+and let me start reaching out.
+So right now the response rate on LinkedIn
+is only around 20%.
+So if you send out 100 messages,
+only 20 people would reply to you.
+So with that in mind, it kind of makes
+you realize rejection or being ghosted on
+there is going to be inevitable,
+but also really personalize your message.
+So if you wanted to reach out to
+an engineer, maybe you can say, oh,
+I watched your talk on YouTube.
+I really liked
+what you mentioned about this and this or,
+oh, I saw you at that conference,
+you know,
+so when you give a more personal hook
+and make it about them instead of
+about what you want, I want job.
+Give me job. Job now, please.
+It sort of connects with people like,
+oh, thank you for looking at my work,
+who I am.
+You know, how can I help you, etc.
+and you know, it can help in the sense
+that, you know,
+you never know
+where your profile might land.
+So of course someone can say no,
+but someone also might say yes,
+but you'll never know if you don't ask.
+And it takes a little bit of practice.
+So if you send out different kind of reach
+out messages on LinkedIn, track those.
+So if you send that message A
+and you get a 10% response rate
+versus message B, that gets a 40% response
+rate, which one are you going to use?
+Right. So I think it takes a little
+bit of experimentation
+as well as just being brave.
+Yeah.
+Engineering
+the messaging process and keeping track.
+That's not something I've thought of.
+I kind of just do it.
+But yeah, actually putting a process
+in place might be really helpful.
+You mentioned portfolios as well.
+The body of work
+that someone has done for others
+to see click through, prototype or not.
+For me, my my level of ambition
+kind of keeps rising
+because I know what is now possible,
+what I can do, making or putting out
+something that is quite small
+and simple would be like,
+but I want to do something
+grand and bigger,
+and because I want to do something
+grand and bigger and don't have the time,
+that's kind of my analysis
+paralysis of me actually taking step one.
+Are there things in portfolios
+that you've seen that you were like,
+oh, this is actually quite simple,
+but very effective in showing
+what someone has done or can do.
+Yes, I think showing what you can do,
+even if you haven't done it
+yet, is really important.
+So for example, one of my clients was a
+UX product designer
+and they wanted to transition into retail.
+So what they did
+is looked at the Adidas app and showed,
+hey, this is where your app looks like
+right now.
+This is how I would change it to
+improve it by doing these modifications,
+changing this, that
+and completely revamping the app.
+And I thought that was really cool
+because I didn't actually have
+a body of work to show within that space
+that could be relevant by showing
+what I would do, what I would change,
+what I would improve just gets a company
+to be able to see your thinking.
+And showcasing
+your thinking can be just as important,
+even if the product isn't
+isn't completely finished, if it's clear,
+if it's concise, if I can follow through,
+it makes me think, you know what?
+I think you can add a lot of value
+to this team.
+Tell me more.
+Yeah,
+the visual aspects of those portfolios,
+for me, they're always when I see
+someone do that, I'm like at that one.
+It just makes a lot of sense.
+How do you see that from software
+engineers in their portfolio specifically?
+Can they do something similar?
+This is how I would do
+X, Y, and Z, even though their work
+might not have a bigger visual component.
+Or how do you see that? Yeah.
+So without a visual component,
+it does make it more challenging.
+But I think being able to walk
+through the steps of even what you did.
+So even if you can't show.
+So, you know, we had this challenge,
+what we wanted to do,
+we went through these steps.
+It resulted in this.
+This is how a monitoring reiterating it.
+So still showing like
+even a flow of your thinking.
+And if there's any sort of code
+or something
+you can show behind that,
+I think that can be just as important,
+even if it's not visually as like,
+wow, you know.
+Yeah, yeah, I get that.
+Maybe that's why people.
+Well, one of the thoughts that I had
+was whenever there's an outage,
+there's always an outage report
+that companies put out there specifically.
+That's something
+you can definitely engage with.
+And I've been told that if you read them,
+you can learn a lot as well.
+So that can be part of the body of work
+where you go through this exercise of,
+okay, this is how I would approach
+an improvement
+based on kind of an outage report.
+I think that's quite interesting.
+It's very different
+than having a portfolio
+and a body of work on open source
+on personal projects.
+It's very much actionable
+based on what you've seen from a company
+surface perspective,
+which I think is interesting.
+That is interesting.
+And I think reading other people's
+portfolios,
+like have you seen other engineers
+portfolios by any chance?
+Yeah. Yeah, absolutely.
+Yeah. You can get inspired by that.
+So rather than reinvent
+the wheel, you can take,
+you know,
+bits and pieces of other people's
+work to be like,
+oh, I really love the way
+this person presented that or that person
+or parts
+I can take from this outage report.
+So I think there's a lot of inspiration
+out there.
+And like doing pieces bit by bit over
+time, you know, maybe six months from now
+you're like, oh,
+I have like some work I can show
+that I've been collecting over time.
+For the person that's listening,
+they might have a little bit
+of LinkedIn presence or they might not.
+They're likely a software engineer.
+But what would your advice be
+to at least do within the next few weeks
+with regards to personal branding?
+So number one advice
+don't be afraid of being seen.
+Be visible.
+Don't worry about looking to desperate
+or to thirsty out there
+and showcase your work.
+So if you have a project
+that you've worked on, even if it's not
+recent, talk about it, you know?
+So something I want to highlight
+is this or that, or did
+we solve this by doing that?
+And it's also nice to sometimes
+tag your teammates who you worked on
+something with, sharing advice,
+engaging with other people's comments.
+So I'm sure they're really great people
+to follow out there.
+For example, I love from the pragmatic
+engineer who I'm sure you you know,
+he posts a lot of like, tech articles
+that are really interesting
+on the state of the job market,
+where software engineering is right
+now, and other sort of people who
+you can follow to start to get inspiration
+and ideas and engage with.
+They look so, you know, start small
+so you don't have to go from zero
+to influenza.
+There's somewhere in between
+where you can start to do it in a way
+that feels organic and authentic to you.
+Okay.
+Thanks so much for coming on and sharing.
+This was great.
+Thank you. Thanks for having me.
+That's it.

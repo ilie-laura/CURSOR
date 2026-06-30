@@ -37,4 +37,4 @@ Base every item strictly on the transcript content; do not invent facts not pres
 
 ## Optional
 
-If the user asks, save the output to a file (e.g. `recap-quiz.md`) in the project root or a path they specify.
+If the user asks, save the output to a file (e.g. `recap-quiz.txt`) in the project root or a path they specify.

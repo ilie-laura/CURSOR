@@ -1,0 +1,102 @@
+# Recapitulare + Quiz — Piața muncii în tech (2026)
+
+Sursa: https://www.youtube.com/watch?v=u9pVRdtNsQo
+
+---
+
+## 1. Recapitulare
+
+1. **Piața muncii nu este grozavă** — Angajările în 2026 sunt semnificativ mai puține comparativ cu perioada de boom pandemic sau chiar 2023, în special în sectorul tech.
+2. **Peste 120.000 de oameni au fost concediați doar în 2026** — aproximativ 1.000 de persoane pe zi, în mare parte din companii tech mari.
+3. **Există un paradox**: deși au loc concedieri masive, rămân aproximativ 60.000 de locuri de muncă vacante pentru ingineri software, iar angajatorii spun că le e greu să găsească talentul potrivit.
+4. **AI a schimbat tipul de inginer căutat** — acum se caută mai mult ingineri specializați pe AI, nu doar backend, Android sau iOS. Firmele AI mici și mijlocii (ex. OpenAI) încă angajează și chiar își dublează forța de muncă.
+5. **LinkedIn rămâne principala platformă de angajare**, dar trebuie tratată ca un portofoliu activ, nu ca un CV digital static. Postările despre învățări și eșecuri au cel mai mare impact.
+6. **Comentariile strategice pe LinkedIn** sunt o metodă subestimată — un client a reușit să treacă de la senior engineer la manager doar comentând inteligent la postările managerilor doriti, fără să aplice niciodată oficial.
+7. **CV-urile sunt „prea bune" în zilele noastre** — toate sunt tailor-made, dar la interviu candidații nu pot susține ce au scris. Diferențierea reală vine din relații și recomandări.
+8. **Pentru studenți și entry-level** — sunt semnificativ mai puține poziții entry-level decât în 2024. Se recomandă construirea unei strategii de căutare a jobului încă din timpul studiilor (evenimente de networking, comunități tech).
+9. **Concedierea nu e sfârșitul lumii** — poate fi o oportunitate de a trece la consultanță sau la companii mai mici, unde poți avea mai multă autonomie și satisfacție.
+10. **Unii ingineri software chiar își reconsideră carierele** — un client staff-level a ales să devină instalator (plumber), iar alții migrează către joburi mai „manuale" care nu vor fi înlocuite de AI prea curând.
+
+---
+
+## 2. Quiz — 10 întrebări grilă
+
+**1. Câte persoane au fost concediate în 2026, conform discuției?**
+   a) 50.000  
+   b) 120.000  
+   c) 200.000  
+   d) 60.000  
+   **Răspuns: b) 120.000 ✓**
+
+**2. Care este numărul aproximativ de locuri vacante pentru ingineri software în momentul discuției?**
+   a) 10.000  
+   b) 120.000  
+   c) 60.000  
+   d) 200.000  
+   **Răspuns: c) 60.000 ✓**
+
+**3. Ce companie AI plănuiește să își dubleze forța de muncă până la sfârșitul anului?**
+   a) Google  
+   b) Meta  
+   c) OpenAI  
+   d) Anthropic  
+   **Răspuns: c) OpenAI ✓**
+
+**4. Cum trebuie tratat LinkedIn, potrivit Keki?**
+   a) Ca un CV digital  
+   b) Ca o platformă și un portofoliu activ  
+   c) Doar pentru mesaje private  
+   d) Ca o rețea de socializare personală  
+   **Răspuns: b) Ca o platformă și un portofoliu activ ✓**
+
+**5. Ce tip de conținut are cel mai mare succes pe LinkedIn în rândul inginerilor?**
+   a) Postări cu oferte de muncă  
+   b) Postări despre învățări și eșecuri  
+   c) Share-uri de articole tehnice  
+   d) Poze de la birou  
+   **Răspuns: b) Postări despre învățări și eșecuri ✓**
+
+**6. Cum a reușit clientul lui Keki să treacă de la senior engineer la manager?**
+   a) A aplicat la sute de joburi  
+   b) A postat zilnic pe LinkedIn  
+   c) A comentat inteligent la postările managerilor doriti  
+   d) A plătit un consultant  
+   **Răspuns: c) A comentat inteligent la postările managerilor doriti ✓**
+
+**7. Ce a realizat clienta care s-a ocupat de adopția AI?**
+   a) A fost concediată și a rămas fără loc de muncă  
+   b) A fost promovată  
+   c) Și-a automatizat propriul job, dar a trecut la consultanță cu venit mai mare  
+   d) A fost angajată la OpenAI  
+   **Răspuns: c) Și-a automatizat propriul job, dar a trecut la consultanță cu venit mai mare ✓**
+
+**8. Care este un avantaj al lucrului la o companie mai mică, menționat în discuție?**
+   a) Salariu mai mare garantat  
+   b) Mai multă autonomie și satisfacție  
+   c) Mai multă siguranță a jobului  
+   d) Program mai scurt  
+   **Răspuns: b) Mai multă autonomie și satisfacție ✓**
+
+**9. Ce sfat primește un student care vrea să își găsească un loc de muncă în tech?**
+   a) Să aplice doar după absolvire  
+   b) Să își construiască o strategie de job search încă din timpul studiilor  
+   c) Să nu investească timp în networking  
+   d) Să se concentreze doar pe note  
+   **Răspuns: b) Să își construiască o strategie de job search încă din timpul studiilor ✓**
+
+**10. De ce a ales un client staff-level inginer software să devină instalator (plumber)?**
+   a) Pentru că a fost concediat  
+   b) Pentru că folosea AI pentru 90% din muncă și se plictisise  
+   c) Pentru că nu găsea job în tech  
+   d) Pentru că era o modă  
+   **Răspuns: b) Pentru că folosea AI pentru 90% din muncă și se plictisise ✓**
+
+---
+
+## 3. Întrebări deschise pentru discuție
+
+1. **Pentru studenți (fără experiență):** Cum ai putea începe să îți construiești o rețea de contacte și un „personal brand" încă din timpul facultății, având în vedere că numărul pozițiilor entry-level este în scădere? Ce acțiuni concrete poți lua săptămâna aceasta?
+
+2. **Pentru angajați cu experiență:** În ce măsură crezi că abilitățile tale actuale vor rămâne relevante în următorii 2-3 ani, având în vedere schimbările accelerate de AI? Cum îți menții un echilibru între învățarea continuă și riscul de burnout?
+
+3. **Pentru toți:** Crezi că „portofoliul personal" și vizibilitatea pe LinkedIn sunt într-adevăr factori critici pentru siguranța jobului, sau mai contează în primul rând abilitățile tehnice și experiența? Cum putem face diferența într-o piață în care toate CV-urile par „prea bune"?
