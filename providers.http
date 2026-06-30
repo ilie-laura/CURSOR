@@ -1,0 +1,78 @@
+# Scoala de Vara
+
+OpenAI: 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
+
+
+OpenCode
+
+
+Open Router: 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
+
+Black Forest:  bfl_V5XB6wTWWTwkWTv30JdLc9qCi7u7ntej
+
+
+
+
+# Fill these values before running requests
+@OPENAI_API_KEY=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
+@OPENROUTER_API_KEY=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
+@OPENAI_BASE_URL=https://api.openai.com/v1
+@OPENROUTER_BASE_URL=https://openrouter.ai/api/v1
+@OLLAMA_BASE_URL=http://localhost:11434
+
+### OpenAI - gpt-5.5
+curl -X POST "{{OPENAI_BASE_URL}}/chat/completions" \
+  -H "Authorization: Bearer {{OPENAI_API_KEY}}" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "gpt-5.5",
+    "messages": [
+      {"role": "system", "content": "Esti un comedian roman."},
+      {"role": "user", "content": "Un scenariu de film de 100 de cuvinte, amuzant, fara limbaj ofensator."}
+    ]
+  }'
+
+
+
+### OpenAI - gpt-5.4-mini
+curl -X POST "{{OPENAI_BASE_URL}}/chat/completions" \
+  -H "Authorization: Bearer {{OPENAI_API_KEY}}" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "gpt-5.4-mini",
+    "messages": [
+      {"role": "system", "content": "Esti un assistant roman."},
+      {"role": "user", "content": "un scenariu de film de 100 de cuvinte, amuzant, fara limbaj ofensator."}
+    ]
+  }'
+
+
+
+
+### OpenRouter - z-ai/glm-5.2
+curl -X POST "{{OPENROUTER_BASE_URL}}/chat/completions" \
+  -H "Authorization: Bearer {{OPENROUTER_API_KEY}}" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "z-ai/glm-5.2",
+    "messages": [
+      {"role": "system", "content": "You are a concise assistant."},
+      {"role": "user", "content": "Explain in one sentence what an API is."}
+    ],
+    "temperature": 0.2
+  }'
+
+
+
+### Ollama - qwen:1.8b
+curl -X POST "{{OLLAMA_BASE_URL}}/api/chat" \
+  -H "Content-Type: application/json" \
+  -d '{
+    "model": "qwen:1.8b",
+    "messages": [
+      {"role": "system", "content": "Esti un assistant roman."},
+      {"role": "user", "content": "In limba romana va rog sa vreau un scenariu de film de 100 de cuvinte, amuzant, fara limbaj ofensator."}
+    ],
+    "stream": false
+  }'
+
