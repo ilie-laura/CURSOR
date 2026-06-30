@@ -46,7 +46,8 @@ curl -X POST "{{OPENAI_BASE_URL}}/chat/completions" \
   }'
 
 
-
+##gemma4:e4b-mobile
+##skil convertit vurs in recap si quiz
 
 ### OpenRouter - z-ai/glm-5.2
 curl -X POST "{{OPENROUTER_BASE_URL}}/chat/completions" \

@@ -1,0 +1,8 @@
+{
+  "name": "youtube-transcript-scripts",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "youtube-transcript": "^1.3.1"
+  }
+}
